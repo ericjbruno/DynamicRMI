@@ -1,0 +1,1 @@
+java -cp ./target/DynamicRMI-1.0-SNAPSHOT.jar:./comps/rmi:./comps/rmi/lib/* server.dynamicrmi.RMIServer 
